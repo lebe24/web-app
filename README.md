@@ -1,2 +1,1 @@
-# web-app
-A corrolated web app built using html and javascript check it out...
+# A collection of website design built using html,css and javascript
